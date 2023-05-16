@@ -12,6 +12,9 @@ Goals:
 Image recognition bit:
 
 6. Needs to recognize between cereal or soup
-7. Should also discern if its neither option
-8. New script/bot that will take an image input and decide if its cereal or soup \n
+
+   - Should also discern if its neither option
+   
+7. New script/bot that will take an image input and decide if its cereal or soup 
+ 
 ** Thoughts: I feel like the bot will have trouble discerning even with training. Maybe a better comparison topic would be hotdog/hamburg? 
