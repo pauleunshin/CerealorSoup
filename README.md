@@ -9,7 +9,8 @@ Goals:
 4. Name and save folder of search query
 5. Alternative command: Clear saved photos (5gb github limit so /shrug)
 
-6. Image recognition bit
+Image recognition bit:
+
 6a. Needs to recognize between cereal or soup
 6b. Should also discern if its neither option
 7. New script/bot that will take an image input and decide if its cereal or soup
