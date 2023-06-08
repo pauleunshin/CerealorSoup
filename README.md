@@ -3,8 +3,8 @@ Creating a script that will eventually attempt to discern between cereal and sou
 
 Goals:
 
-1. Create a script that can download an image given a search query
-2. Have the script save that image to the github repo
+1. Create a script that can download an image given a search query ***** DONE
+2. Have the script save that image to the github repo ****************** IN PROGRESS
 3. Make the script ask how many images to save
 4. Name and save folder of search query
 5. Alternative command: Clear saved photos (5gb github limit so /shrug)
